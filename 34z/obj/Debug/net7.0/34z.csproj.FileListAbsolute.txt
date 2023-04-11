@@ -1,0 +1,15 @@
+D:\C#\5dz\34z\bin\Debug\net7.0\34z.exe
+D:\C#\5dz\34z\bin\Debug\net7.0\34z.deps.json
+D:\C#\5dz\34z\bin\Debug\net7.0\34z.runtimeconfig.json
+D:\C#\5dz\34z\bin\Debug\net7.0\34z.dll
+D:\C#\5dz\34z\bin\Debug\net7.0\34z.pdb
+D:\C#\5dz\34z\obj\Debug\net7.0\34z.csproj.AssemblyReference.cache
+D:\C#\5dz\34z\obj\Debug\net7.0\34z.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\5dz\34z\obj\Debug\net7.0\34z.AssemblyInfoInputs.cache
+D:\C#\5dz\34z\obj\Debug\net7.0\34z.AssemblyInfo.cs
+D:\C#\5dz\34z\obj\Debug\net7.0\34z.csproj.CoreCompileInputs.cache
+D:\C#\5dz\34z\obj\Debug\net7.0\34z.dll
+D:\C#\5dz\34z\obj\Debug\net7.0\refint\34z.dll
+D:\C#\5dz\34z\obj\Debug\net7.0\34z.pdb
+D:\C#\5dz\34z\obj\Debug\net7.0\34z.genruntimeconfig.cache
+D:\C#\5dz\34z\obj\Debug\net7.0\ref\34z.dll
